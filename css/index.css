@@ -1,0 +1,15 @@
+body {
+    height: 100vh;
+    background-color: rgba(13, 75, 19, 0.5);
+    background-image: url("../images/football-wallpaper.jpg");
+    background-size: cover;
+}
+
+img.more {
+    padding-top: 500px;
+    padding-left: 550px;
+}
+
+img.more:hover {
+    cursor: pointer;
+}

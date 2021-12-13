@@ -1,0 +1,31 @@
+body {
+    height: 100vh;
+    background-color: rgba(13, 75, 19, 0.5);
+}
+
+.default-bg {
+    background-color: rgba(123, 255, 132, 0.84);
+}
+
+a.navbar-brand:hover {
+    background: rgba(123, 255, 132, 0.84);
+    font-weight: bold;
+}
+
+img.card-image {
+    width: 15%;
+}
+
+img.card-image-grid {
+    width: 15vh;
+}
+
+.grid-card-container {
+    background-color: rgba(194, 255, 197, 0.84);
+    height: 200px;
+    overflow: hidden;
+}
+
+div.split-col-filter {
+    width: 48%;
+}
